@@ -4,3 +4,4 @@ I have feature 1
 
 I am Feature 2. Test oinly
 
+I am Feature 4. Test only
